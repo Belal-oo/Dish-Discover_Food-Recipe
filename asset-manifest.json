@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dish-Discover_Food-Recipe/static/css/main.e474d0bc.css",
+    "main.js": "/Dish-Discover_Food-Recipe/static/js/main.17c058ab.js",
+    "index.html": "/Dish-Discover_Food-Recipe/index.html",
+    "main.e474d0bc.css.map": "/Dish-Discover_Food-Recipe/static/css/main.e474d0bc.css.map",
+    "main.17c058ab.js.map": "/Dish-Discover_Food-Recipe/static/js/main.17c058ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e474d0bc.css",
+    "static/js/main.17c058ab.js"
+  ]
+}
